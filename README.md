@@ -1,8 +1,5 @@
 # Frontend for the project
 
-## Link to the project Demo Video
-[https://youtu.be/xig_nZ5VtuM](https://youtu.be/xig_nZ5VtuM)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Steps
