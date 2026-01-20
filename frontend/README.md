@@ -1,10 +1,5 @@
 # Frontend for the project
 
-## Link to the project Demo Video
-[https://youtu.be/xig_nZ5VtuM](https://youtu.be/xig_nZ5VtuM)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Steps
 
 1. Start the server before running frontend. To start the server, at the directory: `project_team231/src`, run the following commands:
